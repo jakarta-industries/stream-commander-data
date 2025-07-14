@@ -1100,6 +1100,17 @@
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/960px-SCTV_Logo.svg.png"
 	},
 	{
+		"id": "sctv_alt_2",
+		"name": "SCTV",
+		"hls_url": "https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Entertainment",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/960px-SCTV_Logo.svg.png"
+	},
+	{
 		"id": "sindonews_tv",
 		"name": "Sindonews TV",
 		"hls_url": "",
