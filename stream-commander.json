@@ -1529,6 +1529,17 @@
 		"image_url": "https://images.pluto.tv/channels/654933e253fc970008390114/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5"
 	},
 	{
+		"id": "warner_tv",
+		"name": "Warner TV",
+		"hls_url": "https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Entertainment",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png"
+	},
+	{
 		"id": "wion",
 		"name": "WION",
 		"hls_url": "https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8",
