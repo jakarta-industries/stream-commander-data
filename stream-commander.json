@@ -1569,8 +1569,9 @@
 		"drm": "",
 		"clearkey_key": "",
 		"clearkey_key_id": "",
-		"category": "Under Maintenance",
-		"image_url": "https://images.pluto.tv/channels/677d397b60fbeb00084b0bff/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5"
+		"category": "Documentary",
+		"image_url": "https://images.pluto.tv/channels/677d397b60fbeb00084b0bff/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5",
+		"disabled": true
 	},
 	{
 		"id": "xinwenzh",
