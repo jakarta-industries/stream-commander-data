@@ -559,7 +559,8 @@
 		"clearkey_key": "",
 		"clearkey_key_id": "",
 		"category": "Entertainment",
-		"image_url": ""
+		"image_url": "",
+		"disabled": true
 	},
 	{
 		"id": "hallmark_channel",
