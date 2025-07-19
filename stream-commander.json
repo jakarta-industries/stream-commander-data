@@ -703,7 +703,8 @@
 		"clearkey_key": "",
 		"clearkey_key_id": "",
 		"category": "Entertainment",
-		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Iqiyi_Logo_Baru.png/960px-Iqiyi_Logo_Baru.png"
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Iqiyi_Logo_Baru.png/960px-Iqiyi_Logo_Baru.png",
+		"disabled": true
 	},
 	{
 		"id": "jak_tv_alt_2",
