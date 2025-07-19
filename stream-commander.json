@@ -1541,7 +1541,8 @@
 		"clearkey_key": "",
 		"clearkey_key_id": "",
 		"category": "Entertainment",
-		"image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png"
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",
+		"disabled": true
 	},
 	{
 		"id": "wion",
