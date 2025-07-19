@@ -397,6 +397,17 @@
 		"image_url": "https://cdn-icons-png.flaticon.com/512/5432/5432643.png"
 	},
 	{
+		"id": "dazn_combat",
+		"name": "DAZN Combat",
+		"hls_url": "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png"
+	},
+	{
 		"id": "dens_knowledge",
 		"name": "DENS Knowledge",
 		"hls_url": "https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8",
@@ -483,6 +494,28 @@
 		"clearkey_key_id": "",
 		"category": "Movies",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/E%21_Logo_Flat_2012.svg/639px-E%21_Logo_Flat_2012.svg.png"
+	},
+	{
+		"id": "failarmy",
+		"name": "FailArmy",
+		"hls_url": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Entertainment",
+		"image_url": "https://www.failarmy.com/cdn/shop/t/28/assets/logo-image-file.png?v=88203441892567631601747932829"
+	},
+	{
+		"id": "fifa_plus",
+		"name": "FIFA+",
+		"hls_url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FIFA%2B.svg/960px-FIFA%2B.svg.png"
 	},
 	{
 		"id": "film_gold_de",
@@ -806,6 +839,17 @@
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MGM%2B_Marquee_2023.svg/640px-MGM%2B_Marquee_2023.svg.png"
 	},
 	{
+		"id": "monster_jam",
+		"name": "Monster Jam",
+		"hls_url": "https://4b9627c7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vbnN0ZXJKYW1fSExT/playlist.m3u8",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://upload.wikimedia.org/wikipedia/en/6/6e/MonsterJam.png"
+	},
+	{
 		"id": "movie_sphere_by_lionsgate",
 		"name": "Movie Sphere by Lionsgate",
 		"hls_url": "https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8",
@@ -961,6 +1005,28 @@
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nusantara_TV_Logo.svg/640px-Nusantara_TV_Logo.svg.png"
 	},
 	{
+		"id": "pfl_mma",
+		"name": "PFL MMA",
+		"hls_url": "https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://upload.wikimedia.org/wikipedia/en/3/32/ProfessionalFightersLeagueShieldLogo.png"
+	},
+	{
+		"id": "rai_world_premium",
+		"name": "Rai World Premium",
+		"hls_url": "https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Entertainment",
+		"image_url": "https://www.ethnicchannels.com/images/channeldetail/rai-world/rai-world-logo.png"
+	},
+	{
 		"id": "rakuten_tv_action_movies_de",
 		"name": "Rakuten TV Action Movies (DE)",
 		"hls_url": "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8",
@@ -1058,6 +1124,17 @@
 		"clearkey_key_id": "",
 		"category": "Movies",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/640px-Rakuten_TV_logo.svg.png"
+	},
+	{
+		"id": "rakuten_viki",
+		"name": "Rakuten VIKI",
+		"hls_url": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Entertainment",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Rakuten_Viki_Logo_2019.svg/960px-Rakuten_Viki_Logo_2019.svg.png"
 	},
 	{
 		"id": "rt_documentary",
@@ -1425,6 +1502,17 @@
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sundance_TV_Logo.png/960px-Sundance_TV_Logo.png"
 	},
 	{
+		"id": "top_movies_polska",
+		"name": "Top Movies Polska",
+		"hls_url": "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Movies",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/640px-Rakuten_TV_logo.svg.png"
+	},
+	{
 		"id": "top_sci_fi",
 		"name": "Top Sci-Fi (DE)",
 		"hls_url": "https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8",
@@ -1611,7 +1699,6 @@
 		"clearkey_key": "",
 		"clearkey_key_id": "",
 		"category": "Entertainment",
-		"image_url": "",
-		"disabled": false
+		"image_url": ""
 	}
 ]
