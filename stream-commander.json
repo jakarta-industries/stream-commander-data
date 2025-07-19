@@ -1111,7 +1111,8 @@
 		"clearkey_key": "",
 		"clearkey_key_id": "",
 		"category": "Entertainment",
-		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/960px-SCTV_Logo.svg.png"
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/960px-SCTV_Logo.svg.png",
+		"disabled": true
 	},
 	{
 		"id": "sindonews_tv",
