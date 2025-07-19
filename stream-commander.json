@@ -1124,7 +1124,8 @@
 		"clearkey_key": "",
 		"clearkey_key_id": "",
 		"category": "News",
-		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sindo_News_TV_%282023%29.svg/640px-Sindo_News_TV_%282023%29.svg.png"
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sindo_News_TV_%282023%29.svg/640px-Sindo_News_TV_%282023%29.svg.png",
+		"disabled": true
 	},
 	{
 		"id": "sky_news",
