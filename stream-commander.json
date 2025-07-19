@@ -74,7 +74,8 @@
 		"clearkey_key": "",
 		"clearkey_key_id": "",
 		"category": "Entertainment",
-		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png"
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png",
+		"disabled": true
 	},
 	{
 		"id": "arirang_tv",
