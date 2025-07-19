@@ -1160,7 +1160,7 @@
 	},
 	{
 		"id": "starz_encore_classic",
-		"name": "Starz",
+		"name": "Starz Encore",
 		"hls_url": "https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8",
 		"dash_url": "",
 		"drm": "",
