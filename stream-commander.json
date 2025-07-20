@@ -66,6 +66,94 @@
 		"image_url": "https://upload.wikimedia.org/wikipedia/en/b/b5/Alfred-Hitchcock-Presents-Title.jpg"
 	},
 	{
+		"id": "amc_alt_2",
+		"name": "AMC Network",
+		"hls_url": "https://ott.udptv.com/stream/udptv/amc/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Movies",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"
+	},
+	{
+		"id": "amc_thrillers",
+		"name": "AMC Thrillers",
+		"hls_url": "https://ott.udptv.org/stream/udptvus/amcthrillers/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Movies",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png"
+	},
+	{
+		"id": "anc_alt_2",
+		"name": "ANC",
+		"hls_url": "https://ott.udptv.net/stream/iptv/ancglobal/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "News",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/960px-ABS-CBN_News_Channel_%282015%29.svg.png"
+	},
+	{
+		"id": "anc_alt_3",
+		"name": "ANC",
+		"hls_url": "https://ott.udptv.net/stream/iptv/ancph/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "News",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/960px-ABS-CBN_News_Channel_%282015%29.svg.png"
+	},
+	{
+		"id": "animal_planet",
+		"name": "Animal Planet",
+		"hls_url": "https://ott.udptv.org/stream/astro/animalplanet/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Knowledge",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png"
+	},
+	{
+		"id": "animax_alt_2",
+		"name": "Animax",
+		"hls_url": "https://ott.udptv.net/stream/iptv/animax/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Animation",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/640px-Animax_logo.svg.png"
+	},
+	{
+		"id": "anime_x_hidive",
+		"name": "Anime x Hidive",
+		"hls_url": "https://ott.udptv.net/stream/iptv/animexhidive/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Animation",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hidive_text_logo.svg/640px-Hidive_text_logo.svg.png"
+	},
+	{
+		"id": "aniplus_alt_2",
+		"name": "AniPlus",
+		"hls_url": "https://ott.udptv.net/stream/iptv/aniplus/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Animation",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/960px-Aniplus_logo.svg.png"
+	},
+	{
 		"id": "antv_alt_2",
 		"name": "ANTV",
 		"hls_url": "https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8",
@@ -89,6 +177,28 @@
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/640px-Arirang.svg.png"
 	},
 	{
+		"id": "asian_food_network_alt_3",
+		"name": "Asian Food Network",
+		"hls_url": "https://ott.udptv.net/stream/iptv/asianfoodnetwork/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Lifestyle",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png"
+	},
+	{
+		"id": "astro_arena",
+		"name": "Astro Arena",
+		"hls_url": "https://ott.udptv.org/stream/astro/astroarena/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Astro_2024_logo.svg/640px-Astro_2024_logo.svg.png"
+	},
+	{
 		"id": "astro_awani",
 		"name": "Astro Awani",
 		"hls_url": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8",
@@ -98,6 +208,72 @@
 		"clearkey_key_id": "",
 		"category": "News",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Astro_2024_logo.svg/640px-Astro_2024_logo.svg.png"
+	},
+	{
+		"id": "astro_football",
+		"name": "Astro Football",
+		"hls_url": "https://ott.udptv.org/stream/astro/astrofootball/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Astro_2024_logo.svg/640px-Astro_2024_logo.svg.png"
+	},
+	{
+		"id": "astro_premier_sports",
+		"name": "Astro Premier Sports",
+		"hls_url": "https://ott.udptv.org/stream/astro/premiersports/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Astro_2024_logo.svg/640px-Astro_2024_logo.svg.png"
+	},
+	{
+		"id": "astro_showcase",
+		"name": "Astro Showcase",
+		"hls_url": "https://ott.udptv.org/stream/astro/showcasemovies/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Movies",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Astro_2024_logo.svg/640px-Astro_2024_logo.svg.png"
+	},
+	{
+		"id": "astro_sports_plus",
+		"name": "Astro Sports Plus",
+		"hls_url": "https://ott.udptv.org/stream/astro/astrosportsplus/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Astro_2024_logo.svg/640px-Astro_2024_logo.svg.png"
+	},
+	{
+		"id": "astro_sports_uhd",
+		"name": "Astro Sports UHD",
+		"hls_url": "https://ott.udptv.org/stream/astro/astrosportsuhd/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png"
+	},
+	{
+		"id": "axn",
+		"name": "AXN",
+		"hls_url": "https://ott.udptv.org/stream/astro/axn/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Entertainment",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png"
 	},
 	{
 		"id": "barca_one_es",
@@ -133,6 +309,94 @@
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/960px-BBC_Earth_2023.svg.png"
 	},
 	{
+		"id": "bbc_food",
+		"name": "BBC Food",
+		"hls_url": "https://ott.udptv.org/stream/udptvus/bbcfood/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Lifestyle",
+		"image_url": "https://static.wikia.nocookie.net/bbc/images/a/aa/BBC_Food_%28Pluto_TV%29.png/revision/latest?cb=20220213235652"
+	},
+	{
+		"id": "bbc_world_news_alt_4",
+		"name": "BBC World News",
+		"hls_url": "https://ott.udptv.org/stream/astro/bbcnews/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "News",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png"
+	},
+	{
+		"id": "bein_sports",
+		"name": "beIN Sports",
+		"hls_url": "https://ott.udptv.org/stream/udptvus/beinsports/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/640px-Bein_Sports_Logo.svg.png"
+	},
+	{
+		"id": "bein_sports_1_alt_2",
+		"name": "beIN Sports 1",
+		"hls_url": "https://ott.udptv.org/stream/astro/beinsports1/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/640px-Bein_Sports_Logo.svg.png"
+	},
+	{
+		"id": "bein_sports_2_alt_2",
+		"name": "beIN Sports 2",
+		"hls_url": "https://ott.udptv.org/stream/astro/beinsports2/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/640px-Bein_Sports_Logo.svg.png"
+	},
+	{
+		"id": "bein_sports_3_alt_2",
+		"name": "beIN Sports 3",
+		"hls_url": "https://ott.udptv.org/stream/astro/beinsports3/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/640px-Bein_Sports_Logo.svg.png"
+	},
+	{
+		"id": "bein_sports_4",
+		"name": "beIN Sports 4",
+		"hls_url": "https://ott.udptv.net/stream/iptv/beinsports4/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/640px-Bein_Sports_Logo.svg.png"
+	},
+	{
+		"id": "bein_sports_5",
+		"name": "beIN Sports 5",
+		"hls_url": "https://ott.udptv.net/stream/iptv/beinsports5/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/640px-Bein_Sports_Logo.svg.png"
+	},
+	{
 		"id": "beritasatu",
 		"name": "BeritaSatu",
 		"hls_url": "https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8",
@@ -142,6 +406,39 @@
 		"clearkey_key_id": "",
 		"category": "News",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BeritaSatu_%28Flat%29.svg/640px-BeritaSatu_%28Flat%29.svg.png"
+	},
+	{
+		"id": "billiard_tv",
+		"name": "Billiard TV",
+		"hls_url": "https://ott.udptv.org/stream/udptvus/billardtv/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://assets.azbilliards.com/wp-content/uploads/2023/04/06180627/unnamed-3-2.png"
+	},
+	{
+		"id": "bilyonaryo_tv",
+		"name": "Bilyonaryo TV",
+		"hls_url": "https://ott.udptv.net/stream/iptv/billonaryonewschannel/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "News",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png/960px-BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png"
+	},
+	{
+		"id": "blast_sports",
+		"name": "Blast Sports",
+		"hls_url": "https://ott.udptv.net/stream/iptv/blastsports/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "News",
+		"image_url": "https://static.wikia.nocookie.net/russel/images/2/21/Blast_Sports_Logo_2024.png/revision/latest/scale-to-width-down/1200?cb=20240201145741"
 	},
 	{
 		"id": "bloomberg",
@@ -177,6 +474,17 @@
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/640px-New_Bloomberg_Logo.svg.png"
 	},
 	{
+		"id": "bloomberg_alt_5",
+		"name": "Bloomberg",
+		"hls_url": "https://ott.udptv.org/stream/astro/bloombergtv/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "News",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/640px-New_Bloomberg_Logo.svg.png"
+	},
+	{
 		"id": "bloomberg_quicktake",
 		"name": "Bloomberg Quicktake",
 		"hls_url": "https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8",
@@ -197,6 +505,28 @@
 		"clearkey_key_id": "",
 		"category": "News",
 		"image_url": "https://static.wikia.nocookie.net/logopedia/images/6/6a/QuickTakeLogo1.png/revision/latest?cb=20201116011901"
+	},
+	{
+		"id": "boo",
+		"name": "BOO",
+		"hls_url": "https://ott.udptv.org/stream/astro/boo/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Movies",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Astro_2024_logo.svg/640px-Astro_2024_logo.svg.png"
+	},
+	{
+		"id": "boomerang",
+		"name": "Boomerang",
+		"hls_url": "https://ott.udptv.org/stream/udptvus/boomerang/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Kids",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/632px-Boomerang_2014_logo.svg.png"
 	},
 	{
 		"id": "btv",
@@ -221,6 +551,28 @@
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/640px-BTV_%28Indonesia%29_logo_%282025%29.svg.png"
 	},
 	{
+		"id": "cartoon_network_alt_3",
+		"name": "Cartoon Network",
+		"hls_url": "https://ott.udptv.org/stream/astro/astrocartoonnetwork/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Kids",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png"
+	},
+	{
+		"id": "cartoonito_alt_2",
+		"name": "Cartoonito",
+		"hls_url": "https://ott.udptv.net/stream/iptv/boomerang/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Kids",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png"
+	},
+	{
 		"id": "cbs_news",
 		"name": "CBS News",
 		"hls_url": "https://jmp2.uk/sam-USBA370000104.m3u8",
@@ -232,6 +584,17 @@
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/960px-CBS_News_logo_%282020%29.svg.png"
 	},
 	{
+		"id": "cbs_sports_golazo",
+		"name": "CBS Sports Golazo",
+		"hls_url": "https://ott.udptv.com/stream/udptv/cbssportsgolazo/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/0267a27d/DRAFTGolazoAnnouncementRelease03062023FINAL_html_57bcdd2557c25f59.png"
+	},
+	{
 		"id": "cctv4",
 		"name": "CCTV-4",
 		"hls_url": "https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8",
@@ -241,6 +604,28 @@
 		"clearkey_key_id": "",
 		"category": "Entertainment",
 		"image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/CCTV-4_channel.svg/610px-CCTV-4_channel.svg.png"
+	},
+	{
+		"id": "celestial_movies_pinoy",
+		"name": "Celestial Movies Pinoy",
+		"hls_url": "https://ott.udptv.net/stream/iptv/celestialmoviespinoy/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Movies",
+		"image_url": "https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Celestial_Movies_Pinoy_%282016-.n.v.%29.png/revision/latest?cb=20210214082729"
+	},
+	{
+		"id": "cgtn_alt_2",
+		"name": "CGTN",
+		"hls_url": "https://ott.udptv.org/stream/astro/cgtn/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "News",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png"
 	},
 	{
 		"id": "cgtn_documentary",
@@ -274,6 +659,50 @@
 		"clearkey_key_id": "",
 		"category": "Entertainment",
 		"image_url": "https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Channel_Jowo.png/960px-Channel_Jowo.png"
+	},
+	{
+		"id": "cine_mo_alt_2",
+		"name": "Cine Mo!",
+		"hls_url": "https://ott.udptv.net/stream/iptv/cinemoglobal/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Movies",
+		"image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/640px-Cinemo_logo_vectorized.svg.png"
+	},
+	{
+		"id": "cinema_one_alt_2",
+		"name": "Cinema One",
+		"hls_url": "https://ott.udptv.net/stream/iptv/cinemaoneglobal/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Movies",
+		"image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/771px-Cinema_One_2013_logo.svg.png"
+	},
+	{
+		"id": "cinema_one_alt_3",
+		"name": "Cinema One",
+		"hls_url": "https://ott.udptv.net/stream/iptv/cinemaoneph/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Movies",
+		"image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/771px-Cinema_One_2013_logo.svg.png"
+	},
+	{
+		"id": "cinemax",
+		"name": "Cinemax",
+		"hls_url": "https://ott.udptv.org/stream/astro/astrocinemax/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Movies",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png"
 	},
 	{
 		"id": "cna",
@@ -461,6 +890,17 @@
 		"clearkey_key_id": "",
 		"category": "Kids",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/640px-2015_Disney_XD_logo.svg.png"
+	},
+	{
+		"id": "dreamworks_alt_2",
+		"name": "DreamWorks",
+		"hls_url": "http://ott.udptv.net/stream/iptv/cignaldreamworks/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Movies",
+		"image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/640px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png"
 	},
 	{
 		"id": "dubai_one",
@@ -1544,6 +1984,17 @@
 		"clearkey_key_id": "",
 		"category": "News",
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/TRTGLOBAL.svg/640px-TRTGLOBAL.svg.png"
+	},
+	{
+		"id": "tru_tv",
+		"name": "Tru TV",
+		"hls_url": "https://ott.udptv.org/stream/udptvus/trutv/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Entertainment",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/640px-TruTV_2014.svg.png"
 	},
 	{
 		"id": "tvone",
