@@ -960,7 +960,7 @@
   {
     "id": "dreamworks_alt_2",
     "name": "DreamWorks",
-    "hls_url": "http://ott.udptv.net/stream/iptv/cignaldreamworks/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "hls_url": "https://ott.udptv.net/stream/iptv/cignaldreamworks/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
     "dash_url": "",
     "drm": "",
     "clearkey_key": "",
@@ -1168,6 +1168,17 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/640px-HBO_logo.svg.png"
   },
   {
+    "id": "hbo_2",
+    "name": "HBO 2",
+    "hls_url": "https://ott.udptv.net/stream/iptv/hbo2/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "dash_url": "",
+    "drm": "",
+    "clearkey_key": "",
+    "clearkey_key_id": "",
+    "category": "Movies",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/640px-HBO_logo.svg.png"
+  },
+  {
     "id": "hbo_boxing",
     "name": "HBO Boxing",
     "hls_url": "https://ott.udptv.net/stream/iptv/hboboxing/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
@@ -1203,7 +1214,7 @@
   {
     "id": "hbo_hits",
     "name": "HBO Hits",
-    "hls_url": "http://ott.udptv.net/stream/iptv/hbohits/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "hls_url": "https://ott.udptv.net/stream/iptv/hbohits/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
     "dash_url": "",
     "drm": "",
     "clearkey_key": "",
@@ -1214,13 +1225,101 @@
   {
     "id": "hbo_signature",
     "name": "HBO Signature",
-    "hls_url": "http://ott.udptv.net/stream/iptv/hbosignature/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "hls_url": "https://ott.udptv.net/stream/iptv/hbosignature/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
     "dash_url": "",
     "drm": "",
     "clearkey_key": "",
     "clearkey_key_id": "",
     "category": "Movies",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png"
+  },
+  {
+    "id": "hbo_west",
+    "name": "HBO West",
+    "hls_url": "https://ott.udptv.net/stream/iptv/hbowest/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "dash_url": "",
+    "drm": "",
+    "clearkey_key": "",
+    "clearkey_key_id": "",
+    "category": "Movies",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/640px-HBO_logo.svg.png"
+  },
+  {
+    "id": "hbo_zone",
+    "name": "HBO Zone",
+    "hls_url": "https://ott.udptv.net/stream/iptv/hbozone/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "dash_url": "",
+    "drm": "",
+    "clearkey_key": "",
+    "clearkey_key_id": "",
+    "category": "Movies",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/960px-HBO_Zone_%282014%29.svg.png"
+  },
+  {
+    "id": "hgtv",
+    "name": "HGTV",
+    "hls_url": "https://ott.udptv.org/stream/astro/hgtv/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "dash_url": "",
+    "drm": "",
+    "clearkey_key": "",
+    "clearkey_key_id": "",
+    "category": "Lifestyle",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/960px-HGTV_2010.svg.png"
+  },
+  {
+    "id": "history",
+    "name": "History",
+    "hls_url": "http://ott.udptv.net/stream/iptv/history/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "dash_url": "",
+    "drm": "",
+    "clearkey_key": "",
+    "clearkey_key_id": "",
+    "category": "Documentary",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/665px-History_%282021%29.svg.png"
+  },
+  {
+    "id": "history_de",
+    "name": "History DE",
+    "hls_url": "https://ott.udptv.org/stream/skyde/history/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "dash_url": "",
+    "drm": "",
+    "clearkey_key": "",
+    "clearkey_key_id": "",
+    "category": "Documentary",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/665px-History_%282021%29.svg.png"
+  },
+  {
+    "id": "hits",
+    "name": "Hits",
+    "hls_url": "https://ott.udptv.net/stream/iptv/hits/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "dash_url": "",
+    "drm": "",
+    "clearkey_key": "",
+    "clearkey_key_id": "",
+    "category": "Movies",
+    "image_url": "https://static.wikia.nocookie.net/logopedia/images/e/e9/Hits_%28Southeast_Asia%29.svg/revision/latest?cb=20240506054820"
+  },
+  {
+    "id": "hits_movies",
+    "name": "Hits Movies",
+    "hls_url": "https://ott.udptv.org/stream/astro/hitsmovies/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "dash_url": "",
+    "drm": "",
+    "clearkey_key": "",
+    "clearkey_key_id": "",
+    "category": "Movies",
+    "image_url": "https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911"
+  },
+  {
+    "id": "hits_now",
+    "name": "Hits Now",
+    "hls_url": "https://ott.udptv.org/stream/astro/hitsnow/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+    "dash_url": "",
+    "drm": "",
+    "clearkey_key": "",
+    "clearkey_key_id": "",
+    "category": "Movies",
+    "image_url": "https://static.wikia.nocookie.net/logopedia/images/6/6b/HITS_Now_logo.svg/revision/latest/scale-to-width-down/1200?cb=20240711133443"
   },
   {
     "id": "i24news_english",
