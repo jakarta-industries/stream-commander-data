@@ -782,6 +782,17 @@
 		"image_url": "https://crema.tv/wp-content/uploads/2022/04/cremaTV-Logo.png"
 	},
 	{
+		"id": "crime_and_investigation_de",
+		"name": "Crime+Investigation (DE)",
+		"hls_url": "https://ott.udptv.org/stream/skyde/crimeinvestigation/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Knowledge",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png"
+	},
+	{
 		"id": "curiosity_now",
 		"name": "Curiosity Now",
 		"hls_url": "https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8",
@@ -837,6 +848,17 @@
 		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png"
 	},
 	{
+		"id": "dazn_ringside",
+		"name": "DAZN Ringside",
+		"hls_url": "https://ott.udptv.com/stream/udptv/daznringside/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Sports",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png"
+	},
+	{
 		"id": "dens_knowledge",
 		"name": "DENS Knowledge",
 		"hls_url": "https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8",
@@ -857,6 +879,50 @@
 		"clearkey_key_id": "",
 		"category": "Entertainment",
 		"image_url": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg"
+	},
+	{
+		"id": "discovery_asia",
+		"name": "Discovery Asia",
+		"hls_url": "https://ott.udptv.org/stream/astro/discoveryasia/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Knowledge",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/640px-Discovery_Asia_logo.svg.png"
+	},
+	{
+		"id": "discovery_channel",
+		"name": "Discovery Channel",
+		"hls_url": "https://ott.udptv.org/stream/astro/discoverychannel/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Knowledge",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+	},
+	{
+		"id": "discovery_de",
+		"name": "Discovery DE",
+		"hls_url": "https://ott.udptv.org/stream/skyde/discoverychannel/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Knowledge",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
+	},
+	{
+		"id": "discovery_us",
+		"name": "Discovery US",
+		"hls_url": "https://ott.udptv.org/stream/udptvus/discovery/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd",
+		"dash_url": "",
+		"drm": "",
+		"clearkey_key": "",
+		"clearkey_key_id": "",
+		"category": "Knowledge",
+		"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png"
 	},
 	{
 		"id": "disney_channel",
